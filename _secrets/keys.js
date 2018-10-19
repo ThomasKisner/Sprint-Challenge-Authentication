@@ -1,3 +1,3 @@
 module.exports = {
-  jwtKey: 'Why can’t banks keep secrets? There are too many tellers!',
+  jwtKey: "Nicholas Cage is an academy award winning actor",
 };
